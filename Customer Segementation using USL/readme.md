@@ -1,5 +1,8 @@
 # 🛍️ Customer Segmentation using RFM Analysis and KMeans Clustering
 
+![USL](https://github.com/user-attachments/assets/3e52a2d1-ea44-4053-b57f-5aad07e48093)
+
+
 This project segments customers based on their purchasing behavior using **Recency, Frequency, and Monetary (RFM)** metrics. Leveraging **KMeans Clustering**, it helps identify key customer groups such as high-value loyal buyers, at-risk customers, and occasional shoppers. These insights can be used for personalized marketing, retention strategies, and revenue optimization.
 
 ---
@@ -30,6 +33,10 @@ This project segments customers based on their purchasing behavior using **Recen
 ### 4. **Clustering**
 - Applied **KMeans** with optimal `k` determined via the **Elbow Method**.
 - Segmented customers into meaningful groups based on RFM behavior.
+![image](https://github.com/user-attachments/assets/f7873dfd-9997-41fd-a156-56f84212478f)
+
+
+
 
 ---
 
@@ -47,7 +54,9 @@ This project segments customers based on their purchasing behavior using **Recen
 ## 📈 Visualizations
 
 ### Customer Segments: Recency vs Monetary
-![Customer Segments](image.png)
+
+![image](https://github.com/user-attachments/assets/8a5ec70d-8d5b-4437-9408-2dfca3d16af2)
+
 
 - **Cluster 2**: Very recent and high spenders (ideal for loyalty rewards).
 - **Cluster 1**: Dormant and low-value customers (targets for reactivation).
